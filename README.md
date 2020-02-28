@@ -1,1 +1,1 @@
-# ecshop
+# ECShop 2.7.3 支持 PHP7.0 以上版本
